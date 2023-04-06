@@ -1,3 +1,3 @@
 # User List
 
-[Video]('./videos')
+[Video]('https://github.com/zamnh/rn-user-list/tree/main/videos')
